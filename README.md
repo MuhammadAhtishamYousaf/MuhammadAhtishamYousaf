@@ -25,7 +25,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadahtishamyousaf&show_icons=true&locale=en" alt="muhammadahtishamyousaf" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadahtishamyousaf&" alt="muhammadahtishamyousaf" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAhtishamYousaf&" alt="MuhammadAhtishamYousaf" /></p>
 
 
 <!--
