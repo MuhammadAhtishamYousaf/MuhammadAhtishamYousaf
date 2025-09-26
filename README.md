@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadahtishamyousaf&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadahtishamyousaf" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadahtishamyousaf" alt="muhammadahtishamyousaf" /></a> </p>
-
-- 🔭 I’m currently working on [8](8)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MuhammadAhtishamYousaf" alt="MuhammadAhtishamYousaf" /></a> </p>
 
 - 🌱 I’m currently learning **Pytorch for Small language models. And Model Context Protocol with OpenAI Agents SDK for Agents systems.**
 
