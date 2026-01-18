@@ -1,9 +1,9 @@
 <h1 align="center">⚡ Hi, I'm Muhammad Ahtisham - AI Internee at Xeven Solutions</h1>
 <h3 align="center">I am a passionate tech enthusiast with strong skills in web development, data analysis, and AI. I have hands-on experience in building responsive websites and developing insightful dashboards using tools like Power BI. My machine learning expertise includes creating predictive models and chatbots. I am currently expanding my knowledge in Generative AI and Agentic AI to build innovative solutions. My projects showcase my ability to adapt to emerging technologies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadahtishamyousaf&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadahtishamyousaf" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MuhammadAhtishamYousaf&label=Profile%20views&color=0e75b6&style=flat" alt="MuhammadAhtishamYousaf" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MuhammadAhtishamYousaf" alt="MuhammadAhtishamYousaf" /></a> </p>
+<p align="left"> <a href="https://github.com/MuhammadAhtishamYousaf/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MuhammadAhtishamYousaf" alt="MuhammadAhtishamYousaf" /></a> </p>
 
 - 🌱 I’m currently learning **Pytorch for Small language models. And Model Context Protocol with OpenAI Agents SDK for Agents systems.**
 
