@@ -23,7 +23,7 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=MuhammadAhtishamYousaf&label=Profile+Views&color=blue&style=flat"/>
 <img src="https://img.shields.io/badge/Focus-AI%20Engineering-blueviolet?style=flat"/>
-<img src="https://img.shields.io/badge/Learning-Generative%20AI-brightgreen?style=flat"/>
+<img src="https://img.shields.io/badge/Learning-Agent%20Development-brightgreen?style=flat"/>
 </p>
 
 <div align="center">
@@ -233,41 +233,7 @@ Created dashboards and data analysis projects using:
 # 🛠 Languages and Tools
 
 <p align="center">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  </a>
-  
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/>
-  </a>
-  
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/>
-  </a>
-  
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="50" height="50"/>
-  </a>
-  
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50" height="50"/>
-  </a>
-  
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
-  </a>
-  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
-  </a>
-  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-  </a>
-  
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
-  </a>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,django,docker,git,mysql," />
 </p>
 
 ---
@@ -275,10 +241,10 @@ Created dashboards and data analysis projects using:
 # 📫 Contact
 
 📧 **Email**  
-iamahtishamyousaf@gmail.com
+ahtisham.yousaf@xevensolutions.com
 
 💼 **LinkedIn**  
-YOUR_LINKEDIN_URL
+https://www.linkedin.com/in/muhammad-ahtisham-yousaf/
 
 💻 **GitHub**  
 https://github.com/MuhammadAhtishamYousaf
