@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Muhammad Ahtisham Yousaf</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&color=00C2FF&center=true&vCenter=true&width=900&lines=AI & ML+Engineer;Python+Developer;Generative+AI+Developer;Building+AI+Agents+%26+Intelligent+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+&+ML+Engineer;Python+Developer;Generative+AI+Developer;Building+AI+Agents+%26+Intelligent+Systems" />
 </p>
 
 <p align="center">
