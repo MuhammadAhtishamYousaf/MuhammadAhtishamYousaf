@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋 I'm Muhammad Ahtisham Yousaf</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Developer;Generative+AI+Developer;OpenAI+Agents+SDK+Developer;Building+AI+Agents+%26+Intelligent+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Developer;Generative+AI+Developer;Building+AI+Agents+%26+Intelligent+Systems" />
 </p>
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/muhammad-ahtisham-yousaf/">
 <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Ahtisham-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="mailto:iamahtishamyousaf@gmail.com">
+<a href="mailto:ahtisham.yousaf@xevensolutions.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
 </a>
 
@@ -40,7 +40,7 @@ I specialize in:
 
 - Machine Learning & Deep Learning
 - Generative AI Applications
-- AI Agents using OpenAI Agents SDK
+- AI Agents using LangChain & LangGraph
 - NLP & Transformers
 - FastAPI & Backend Development
 - Data Analysis & Visualization
@@ -52,7 +52,6 @@ Currently focused on:
 - MCP (Model Context Protocol)
 - Agentic AI Systems
 - RAG Pipelines
-- AI Automation Workflows
 
 ---
 
@@ -72,22 +71,22 @@ Currently focused on:
 
 # 🎓 Education
 
-### BS Information Technology
-Your University Name  
-📅 2021 — 2025
+### Intermediate
+Punjab Group of Collages
+📅 2021 — 2023
 
 ---
 
 # 🏢 Experience
 
-## Xeven Solutions — AI Internee
+## Xeven Solutions — AI & Backend Engineer
 📅 2025 — Present
 
 ### Key Contributions:
 
 - Building AI-powered applications using OpenAI APIs
-- Developing intelligent chatbots using LangChain and Streamlit
-- Exploring OpenAI Agents SDK and MCP
+- Developing intelligent chatbots using LangChain and LangGraph
+- Exploring MCP
 - Working with RAG systems and vector databases
 - Building AI automation workflows and agentic systems
 - Learning production-ready AI application development
@@ -100,7 +99,6 @@ Your University Name
 - Machine Learning Developer
 - Generative AI Developer
 - Python Developer
-- Data Analyst
 
 ---
 
@@ -110,9 +108,9 @@ Your University Name
 
 - Python
 - SQL
-- JavaScript
-- HTML5
-- CSS3
+- JavaScript(Basics)
+- HTML5(Basics)
+- CSS3(Basics)
 
 ---
 
@@ -130,11 +128,9 @@ Your University Name
 
 ### Generative AI
 
-- OpenAI SDK
 - LangChain
+- LangGraph
 - RAG Pipelines
-- OpenAI Agents SDK
-- MCP (Model Context Protocol)
 - Vector Databases
 - Prompt Engineering
 
@@ -144,7 +140,6 @@ Your University Name
 
 - FastAPI
 - Django
-- Flask
 - REST APIs
 
 ---
@@ -153,40 +148,36 @@ Your University Name
 
 - MySQL
 - PostgreSQL
-- MongoDB
+- SQLite
 
 ---
 
 ### DevOps & Tools
 
 - Docker
-- Git & GitHub
-- Linux / CLI
+- Git & GitHub & BitBucket
 - VS Code
-- Postman
+
 
 ---
 
 # ☁️ Cloud & Infrastructure
 
 - Docker Containerization
-- Linux Server Management
 - REST API Development
 - GitHub Version Control
-- Backend Deployment Fundamentals
-- CI/CD Basics
 
 ---
 
 # 📁 Featured Projects
 
-## 🤖 AI Chatbot using LangChain & OpenAI
+## 🤖 AI Chatbot using LangChain & LangGraph
 
 Built an AI chatbot using:
 
 - LangChain
+- LangGraph
 - OpenAI API
-- Streamlit
 - Vector Databases
 
 ### Features:
@@ -198,31 +189,13 @@ Built an AI chatbot using:
 
 ---
 
-## 🧠 Deep Learning Image Classifier
-
-Built using:
-
-- PyTorch
-- Fashion MNIST
-- CNN Architecture
-
-### Features:
-
-- GPU Support
-- Batch Normalization
-- Dropout Layers
-- Training & Evaluation Pipeline
-
----
-
-## 🤖 AI Agents using OpenAI Agents SDK
+## 🤖 AI Agents using LangChain & LangGraph
 
 Developed intelligent AI agents capable of:
 
 - Tool Calling
 - Multi-step Reasoning
 - Workflow Automation
-- MCP Integration
 - Structured Outputs
 
 ---
@@ -242,14 +215,6 @@ Created dashboards and data analysis projects using:
 - Visualization
 - Insights Generation
 - Interactive Reporting
-
----
-
-# 📜 Certifications
-
-- Machine Learning Certification
-- Python Development Certification
-- AI & Data Science Bootcamp
 
 ---
 
