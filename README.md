@@ -1,44 +1,328 @@
-<h1 align="center">⚡ Hi, I'm Muhammad Ahtisham - AI Internee at Xeven Solutions</h1>
-<h3 align="center">I am a passionate tech enthusiast with strong skills in web development, data analysis, and AI. I have hands-on experience in building responsive websites and developing insightful dashboards using tools like Power BI. My machine learning expertise includes creating predictive models and chatbots. I am currently expanding my knowledge in Generative AI and Agentic AI to build innovative solutions. My projects showcase my ability to adapt to emerging technologies.</h3>
+<h1 align="center">Hi 👋 I'm Muhammad Ahtisham Yousaf</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MuhammadAhtishamYousaf&label=Profile%20views&color=0e75b6&style=flat" alt="MuhammadAhtishamYousaf" /> </p>
-
-<p align="left"> <a href="https://github.com/MuhammadAhtishamYousaf/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MuhammadAhtishamYousaf" alt="MuhammadAhtishamYousaf" /></a> </p>
-
-- 🌱 I’m currently learning **Pytorch for Small language models. And Model Context Protocol with OpenAI Agents SDK for Agents systems.**
-
-- 💬 Ask me about **Data Science, AI and MCP**
-
-- 📫 How to reach me **iamahtishamyousaf@gmail.com**
-
-- ⚡ Fun fact **I believe soon I'll shine Insha'Allah**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-ahtisham-yousaf?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-ahtisham-yousaf?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Developer;Generative+AI+Developer;OpenAI+Agents+SDK+Developer;Building+AI+Agents+%26+Intelligent+Systems" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadAhtishamYousaf&show_icons=true&locale=en&layout=compact" alt="muhammadahtishamyousaf" /></p>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Ahtisham-blue?style=for-the-badge&logo=linkedin">
+</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadahtishamyousaf&show_icons=true&locale=en" alt="muhammadahtishamyousaf" /></p>
+<a href="mailto:iamahtishamyousaf@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAhtishamYousaf&" alt="MuhammadAhtishamYousaf" /></p>
+<a href="https://github.com/MuhammadAhtishamYousaf">
+<img src="https://img.shields.io/badge/GitHub-MuhammadAhtishamYousaf-black?style=for-the-badge&logo=github">
+</a>
 
+</p>
 
-<!--
-**MuhammadAhtishamYousaf/MuhammadAhtishamYousaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=MuhammadAhtishamYousaf&label=Profile+Views&color=blue&style=flat"/>
+<img src="https://img.shields.io/badge/Focus-AI%20Engineering-blueviolet?style=flat"/>
+<img src="https://img.shields.io/badge/Learning-Generative%20AI-brightgreen?style=flat"/>
+</p>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🚀 About Me
+
+I am an AI Engineer and Machine Learning enthusiast passionate about building intelligent systems using Generative AI, Deep Learning, and Agentic AI frameworks.
+
+I specialize in:
+
+- Machine Learning & Deep Learning
+- Generative AI Applications
+- AI Agents using OpenAI Agents SDK
+- NLP & Transformers
+- FastAPI & Backend Development
+- Data Analysis & Visualization
+
+Currently focused on:
+
+- PyTorch
+- Small Language Models (SLMs)
+- MCP (Model Context Protocol)
+- Agentic AI Systems
+- RAG Pipelines
+- AI Automation Workflows
+
+---
+
+# 📚 Table of Contents
+
+- [🎓 Education](#-education)
+- [🏢 Experience](#-experience)
+- [🧑‍💼 Roles](#-roles)
+- [🛠 AI & ML Stack](#-ai--ml-stack)
+- [☁️ Cloud & Infrastructure](#️-cloud--infrastructure)
+- [📁 Featured Projects](#-featured-projects)
+- [📜 Certifications](#-certifications)
+- [📊 GitHub Statistics](#-github-statistics)
+- [📫 Contact](#-contact)
+
+---
+
+# 🎓 Education
+
+### BS Information Technology
+Your University Name  
+📅 2021 — 2025
+
+---
+
+# 🏢 Experience
+
+## Xeven Solutions — AI Internee
+📅 2025 — Present
+
+### Key Contributions:
+
+- Building AI-powered applications using OpenAI APIs
+- Developing intelligent chatbots using LangChain and Streamlit
+- Exploring OpenAI Agents SDK and MCP
+- Working with RAG systems and vector databases
+- Building AI automation workflows and agentic systems
+- Learning production-ready AI application development
+
+---
+
+# 🧑‍💼 Roles
+
+- AI Engineer
+- Machine Learning Developer
+- Generative AI Developer
+- Python Developer
+- Data Analyst
+
+---
+
+# 🛠 AI & ML Stack
+
+### Languages
+
+- Python
+- SQL
+- JavaScript
+- HTML5
+- CSS3
+
+---
+
+### AI / Machine Learning
+
+- PyTorch
+- TensorFlow
+- Scikit-learn
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+---
+
+### Generative AI
+
+- OpenAI SDK
+- LangChain
+- RAG Pipelines
+- OpenAI Agents SDK
+- MCP (Model Context Protocol)
+- Vector Databases
+- Prompt Engineering
+
+---
+
+### Backend Development
+
+- FastAPI
+- Django
+- Flask
+- REST APIs
+
+---
+
+### Databases
+
+- MySQL
+- PostgreSQL
+- MongoDB
+
+---
+
+### DevOps & Tools
+
+- Docker
+- Git & GitHub
+- Linux / CLI
+- VS Code
+- Postman
+
+---
+
+# ☁️ Cloud & Infrastructure
+
+- Docker Containerization
+- Linux Server Management
+- REST API Development
+- GitHub Version Control
+- Backend Deployment Fundamentals
+- CI/CD Basics
+
+---
+
+# 📁 Featured Projects
+
+## 🤖 AI Chatbot using LangChain & OpenAI
+
+Built an AI chatbot using:
+
+- LangChain
+- OpenAI API
+- Streamlit
+- Vector Databases
+
+### Features:
+
+- PDF Question Answering
+- Conversational Memory
+- Retrieval-Augmented Generation (RAG)
+- Multi-document Support
+
+---
+
+## 🧠 Deep Learning Image Classifier
+
+Built using:
+
+- PyTorch
+- Fashion MNIST
+- CNN Architecture
+
+### Features:
+
+- GPU Support
+- Batch Normalization
+- Dropout Layers
+- Training & Evaluation Pipeline
+
+---
+
+## 🤖 AI Agents using OpenAI Agents SDK
+
+Developed intelligent AI agents capable of:
+
+- Tool Calling
+- Multi-step Reasoning
+- Workflow Automation
+- MCP Integration
+- Structured Outputs
+
+---
+
+## 📊 Data Analysis Dashboard
+
+Created dashboards and data analysis projects using:
+
+- Pandas
+- Matplotlib
+- Seaborn
+- Power BI
+
+### Features:
+
+- Data Cleaning
+- Visualization
+- Insights Generation
+- Interactive Reporting
+
+---
+
+# 📜 Certifications
+
+- Machine Learning Certification
+- Python Development Certification
+- AI & Data Science Bootcamp
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=MuhammadAhtishamYousaf&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAhtishamYousaf&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=MuhammadAhtishamYousaf&theme=tokyonight"/>
+</p>
+
+---
+
+# 🛠 Languages and Tools
+
+<p align="center">
+
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+</a>
+
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/>
+</a>
+
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/>
+</a>
+
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="50" height="50"/>
+</a>
+
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50" height="50"/>
+</a>
+
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
+</a>
+
+</p>
+
+---
+
+# 📫 Contact
+
+📧 **Email**  
+iamahtishamyousaf@gmail.com
+
+💼 **LinkedIn**  
+YOUR_LINKEDIN_URL
+
+💻 **GitHub**  
+https://github.com/MuhammadAhtishamYousaf
+
+---
+
+# ⚡ Fun Fact
+
+I believe with consistency, discipline, and faith, I will build impactful AI systems Insha'Allah 🚀
