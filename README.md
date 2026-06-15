@@ -38,20 +38,14 @@ I am an AI Engineer and Machine Learning enthusiast passionate about building in
 
 I specialize in:
 
-- Machine Learning & Deep Learning
 - Generative AI Applications
 - AI Agents using LangChain & LangGraph
-- NLP & Transformers
 - FastAPI & Backend Development
-- Data Analysis & Visualization
 
 Currently focused on:
 
-- PyTorch
-- Small Language Models (SLMs)
-- MCP (Model Context Protocol)
+- Django
 - Agentic AI Systems
-- RAG Pipelines
 
 ---
 
@@ -84,11 +78,12 @@ Punjab Group of Collages
 
 ### Key Contributions:
 
+- JWT Based Authentication
+- SQLAlchemy Models with FastAPI
+- Backend APIs
 - Building AI-powered applications using OpenAI APIs
 - Developing intelligent chatbots using LangChain and LangGraph
-- Exploring MCP
 - Working with RAG systems and vector databases
-- Building AI automation workflows and agentic systems
 - Learning production-ready AI application development
 
 ---
@@ -96,7 +91,6 @@ Punjab Group of Collages
 # 🧑‍💼 Roles
 
 - AI Engineer
-- Machine Learning Developer
 - Generative AI Developer
 - Python Developer
 
@@ -109,22 +103,11 @@ Punjab Group of Collages
 - Python
 - SQL
 - JavaScript(Basics)
-- HTML5(Basics)
-- CSS3(Basics)
+- HTML(Basics)
+- CSS(Basics)
 
 ---
 
-### AI / Machine Learning
-
-- PyTorch
-- TensorFlow
-- Scikit-learn
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-
----
 
 ### Generative AI
 
@@ -158,65 +141,7 @@ Punjab Group of Collages
 - Git & GitHub & BitBucket
 - VS Code
 
-
 ---
-
-# ☁️ Cloud & Infrastructure
-
-- Docker Containerization
-- GitHub Version Control
-
----
-
-# 📁 Featured Projects
-
-## 🤖 AI Chatbot using LangChain & LangGraph
-
-Built an AI chatbot using:
-
-- LangChain
-- LangGraph
-- OpenAI API
-- Vector Databases
-
-### Features:
-
-- PDF Question Answering
-- Conversational Memory
-- Retrieval-Augmented Generation (RAG)
-- Multi-document Support
-
----
-
-## 🤖 AI Agents using LangChain & LangGraph
-
-Developed intelligent AI agents capable of:
-
-- Tool Calling
-- Multi-step Reasoning
-- Workflow Automation
-- Structured Outputs
-
----
-
-## 📊 Data Analysis Dashboard
-
-Created dashboards and data analysis projects using:
-
-- Pandas
-- Matplotlib
-- Seaborn
-- Power BI
-
-### Features:
-
-- Data Cleaning
-- Visualization
-- Insights Generation
-- Interactive Reporting
-
----
-
 # 📊 GitHub Statistics
 
 <p align="center">
